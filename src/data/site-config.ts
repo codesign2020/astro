@@ -41,13 +41,13 @@ export type SiteConfig = {
 const siteConfig: SiteConfig = {
     logo: {
         src: '/logo.svg',
-        alt: 'Ovidius logo'
+        alt: 'logo'
     },
-    title: 'Ovidius',
-    description: 'Astro.js and Tailwind CSS theme for blogging by justgoodui.com',
+    title: 'Sherlock Lau',
+    description: 'a personal blog',
     image: {
         src: '/ovidius-preview.jpg',
-        alt: 'Ovidius - Astro.js and Tailwind CSS theme'
+        // alt: 'Ovidius - Astro.js and Tailwind CSS theme'
     },
     primaryNavLinks: [
         {
@@ -65,11 +65,8 @@ const siteConfig: SiteConfig = {
         {
             text: 'Contact',
             href: '/contact'
-        },
-        {
-            text: 'Download Theme',
-            href: 'https://github.com/JustGoodUI/ovidius-astro-theme'
         }
+    
     ],
     secondaryNavLinks: [
         {
@@ -83,32 +80,28 @@ const siteConfig: SiteConfig = {
         {
             text: 'Contact',
             href: '/contact'
-        },
-        {
-            text: 'Download Theme',
-            href: 'https://github.com/JustGoodUI/ovidius-astro-theme'
         }
     ],
     socialLinks: [
         {
             text: 'Go to GitHub repo',
-            href: 'https://github.com/JustGoodUI/ovidius-astro-theme',
+            href: 'https://github.com/codesign2020',
             icon: 'github'
         },
         {
             text: 'Follow on Instagram',
-            href: 'https://instagram.com/',
+            href: 'https://instagram.com/liuz8080',
             icon: 'instagram'
         },
         {
             text: 'Follow on X',
-            href: 'https://twitter.com/justgoodui',
+            href: 'https://twitter.com/theSherlockLau',
             icon: 'x-twitter'
         }
     ],
     hero: {
         title: 'Hi there!',
-        text: "My name is Justin Case. I'm a freelance front-end developer, author and speaker based in Austin, TX. It's nice to meet you.",
+        text: "My name is Sherlock Lau. I'm a UI/UX designer, author and speaker based in China. It's nice to meet you.",
         avatar: {
             src: '/avatar.jpg',
             alt: 'Justin Case'
@@ -118,7 +111,7 @@ const siteConfig: SiteConfig = {
         }
     },
     subscribe: {
-        title: 'Subscribe to Ovidius Newsletter',
+        title: 'Subscribe to my Newsletter',
         text: 'One update per week. All the latest news directly in your inbox.',
         formUrl: 'https://justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117&amp;f_id=005c48e2f0'
     },

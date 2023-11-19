@@ -5,15 +5,27 @@ featureImage:
   alt: The portrait of a person
 seo:
   title: About
-  description: About Justin Case
+  description: About Sherlock Lau
   image:
     src: '/about.jpg'
 ---
 
-**This is demo content for [Ovidius](https://github.com/JustGoodUI) Astro.js and Tailwind CSS theme created by [justgoodui.com](https://justgoodui.com/).**
+Currently live in Jinan, Shandong Province, and has been living in Beijing for 8 years.
 
-Justin Case is a senior developer from Vilnius, Lithuania. After graduating from The College with a degree in Computer Science, he worked for three small web shops where he honed his development skills and love for JavaScript.
+Has done technical support in the early stage, and then changed to design, and now is working in the UED center of the product department, mainly around user experience design.
 
-> Creativity is allowing yourself to make mistakes. Design is knowing which ones to keep.
+**Proficient in various UI design tools, including but not limited to Photoshop, Sketch, Figma.**
 
-His work has been recognized by Communication Arts, IBM, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Net magazine named him a person to watch in 2023.
+I know a little bit of video editing, a little bit of motion creation, and I'm getting started with 3D modeling.
+
+Tossed linux, built his own NAS, raspberry pi openwrt soft route.
+
+**Can answer all kinds of weird and wonderful questions, not limited to the field of science and technology, but also including emotions, life, writing, feelings, and can chat with people.**
+
+**Loves to make friends, sincere, not pretentious, but loves to joke and make people laugh.**
+
+**2018-2023 Official Ambassador of Yinxiang Notes.**
+
+**2021-2023 Official Ambassador of Todoist.**
+
+![Todoist Ambassador](https://gcore.jsdelivr.net/gh/sherlock1990/pic@master/uPic/linkedin-banner-image-TD-ambassador@2x.png)
