@@ -1,7 +1,9 @@
 ---
-title: 印象笔记评测
-excerpt: Choosing the right framework for your web project is a critical decision that can significantly impact the development process and the success of your project. With so many options available, it's essential to consider various factors before making a choice.
-publishDate: 'Aug 15 2023'
+title: 【产品评测】Everpen上手体验
+excerpt: 纸和笔，或许是最经典，也是曾经最常用的文字输出工具了。思维通过笔杆，从笔尖慢慢倾泻到纸张上面，变幻成各色各样的线条与图案，灵感被一点点变为现实。然而，在科技飞速发展的今天，我们的精力每时每刻都被电子产品占满，就连文字输出的工具，也逐渐被各类编辑器代替。指尖敲打在硬邦邦的键盘上，极少听到笔尖在纸上的沙沙声了。
+publishDate: 'Aug 15 2020'
+featureImage:
+    src: 'https://images.unsplash.com/photo-1450101499163-c8848c66ca85?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
 ---
 
 **你还会写字吗？**

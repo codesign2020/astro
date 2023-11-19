@@ -1,13 +1,14 @@
 ---
 title: 关于灵动岛的一些看法
-excerpt: Choosing the right framework for your web project is a critical decision that can significantly impact the development process and the success of your project. With so many options available, it's essential to consider various factors before making a choice.
+excerpt: 苹果2022年秋季落幕了，毫无意外的在发布会前夕爆料的内容让这次演出变得没有新意，无论是 **iPhone 13s** 还是 **感叹号变大号胶囊** ，**Apple Watch S7s** 还是**军工版本的大号手表**，还有打个多个孔的**AirPods Pro 2** ，唯一一个没有被爆料者挖出来的也许就是引起争议的 “灵动岛” 设计。
 publishDate: 'Aug 15 2023'
+featureImage:
+    src: 'https://images.unsplash.com/photo-1663373460374-d78ee5369fd5?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
 ---
 苹果2022年秋季落幕了，毫无意外的在发布会前夕爆料的内容让这次演出变得没有新意，无论是 **iPhone 13s** 还是 **感叹号变大号胶囊** ，**Apple Watch S7s** 还是**军工版本的大号手表**，还有打个多个孔的**AirPods Pro 2** ，唯一一个没有被爆料者挖出来的也许就是引起争议的 “灵动岛” 设计。
 
 <!--more-->
 
-![](https://www.apple.com.cn/iphone-14-pro/images/overview/dynamic-island/deep-dive/dynamic_island__evt4vjxhxlsi_small_2x.jpg)
 
 这次发布会前，外界对于感叹号挖孔如何呈现的样式做了各种猜测，除了后续陆续曝出包装盒是大号胶囊以外，大都猜测为苹果会在挖孔两侧做文章，可这次偏偏苹果拿整个挖孔做了新的交互形式，并且为了引起足够的重视，表明这个交互是**深思熟虑** 的产物而非妥协，特意邀请了苹果目前主导人机交互的设计师**Alan Dye**来讲解。并且整个解说强调了这个交互形式的实用性和趣味性。
 
